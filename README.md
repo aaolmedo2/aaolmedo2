@@ -82,8 +82,10 @@
 ###
 
 <div align="left">
+    <a href="https://www.instagram.com/angelo_chelo_" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="https://profile-readme-generator.com/" target="_blank">
+    </a>
+  <a href="https://www.linkedin.com/in/angelo-andres-olmedo-camacho-150827218/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
