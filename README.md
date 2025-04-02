@@ -94,13 +94,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aaolmedo2/aaolmedo2/output/snake.svg" alt="Snake animation" />
+### <img src="https://raw.githubusercontent.com/aaolmedo2/aaolmedo2/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/12165199986">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12165199986&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12165199986&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
